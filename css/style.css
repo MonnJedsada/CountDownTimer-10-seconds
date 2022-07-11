@@ -1,0 +1,17 @@
+body {
+ background-color: rgb(114, 114, 114);
+ 
+}
+
+p{
+    background-color: azure;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    margin: 0;
+    height: 70px;
+    width: 200px;
+    position: absolute;
+    top: auto;
+}
